@@ -32,7 +32,7 @@ async def startupApp():
         """
             The vectorizer and model path variable are used to set the paths that need to access the model or vactorizer file
         """
-        vectorizer_path = "vectorizer\\verctorizer.pkl"
+        vectorizer_path = "vectorizer\\vectorizer.pkl"
         model_path = "model\\finalized_model.pkl"
 
         vectorizer = joblib.load(vectorizer_path)

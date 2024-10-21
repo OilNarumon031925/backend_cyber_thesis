@@ -1,0 +1,6 @@
+scikit-learn
+pandas
+openpyxl
+fastapi
+uvicorn
+https://github.com/PyThaiNLP/pythainlp/archive/dev.zip
